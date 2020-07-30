@@ -3,9 +3,9 @@
 ## I'm an Upcoming Developer, Vlogger, Gamer, and Video Editor!
 
 - 🌱 I’m currently learning everything (especially React and GraphQL 🤣)
-- 👯 I’m looking to
+- 👯 I’m looking to collaborate and actually realize some of my ideas in real life
 - 🥅 2020 Goals: 1- Contribute more to Open Source projects 2- Make More Vlogs
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to sing and play retro games (Super Resident Evil fan !)
 
 ### Connect with me:
 
