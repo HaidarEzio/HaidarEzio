@@ -48,7 +48,7 @@
 
 ---
 
-<img align="left" alt="haidarezio1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidarezio1&show_icons=true&hide_border=true" />
+<img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidarezio1&show_icons=true&hide_border=true" />
 
 [website]: https://hellraiser.netlify.app
 [twitter]: https://twitter.com/vanillaismyjam
