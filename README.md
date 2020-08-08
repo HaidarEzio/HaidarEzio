@@ -1,4 +1,4 @@
-### Hello , I'm Haidar Ezio 👋
+### What's up Everyone, I'm Haidar Ezio 👋
 
 ## I'm an Upcoming Developer, Vlogger, Gamer, and Video Editor!
 
