@@ -28,6 +28,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 <br />
 <br />
@@ -47,7 +48,7 @@
 ---
 
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
-
+<img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 [website]: https://hellraiser.netlify.app
 [twitter]: https://twitter.com/vanillaismyjam
 [youtube]: https://www.youtube.com/channel/UCFTQzKapiCcFx9_NzFcqHAw
