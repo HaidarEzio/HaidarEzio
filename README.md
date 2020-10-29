@@ -1,6 +1,6 @@
 ### What's up Everyone, I'm Haidar Ezio 👋
 
-## I'm an Upcoming Developer, Vlogger, Gamer, and Video Editor!
+## I'm a Web Developer, Vlogger, Gamer, and Video Editor!
 
 - 🌱 I’m currently learning everything (especially React and GraphQL 🤣)
 - 👯 I’m looking to collaborate and actually realize some of my ideas in real life
