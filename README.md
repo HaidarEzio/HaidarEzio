@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything (especially trying React Native & Typescript 🤣)
 - 👯 I’m looking to collaborate and actually realize some of my ideas in real life
-- 🥅 2020 Goals: 1- Contribute more to Open Source projects 2- Make More Vlogs
+- 🥅 2021 Goals: 1- Contribute more to Open Source projects 2- Make More Vlogs 3- Get More Projects rolling !
 - ⚡ Fun fact: I love to sing and play retro games (Super Resident Evil fan !)
 
 ### Connect with me:
