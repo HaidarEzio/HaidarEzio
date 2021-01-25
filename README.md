@@ -1,6 +1,6 @@
 ### What's up Everyone, I'm Haidar Ezio 👋
 
-## I'm a Web Developer, Vlogger, Video Editor, and Gamer!
+## I'm a Web Developer, Vlogger, Video Editor, and Retro Gamer!
 
 - 🌱 I’m currently learning everything (especially trying React Native & Typescript 🤣)
 - 👯 I’m looking to collaborate and actually realize some of my ideas in real life
