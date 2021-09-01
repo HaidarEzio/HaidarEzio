@@ -52,8 +52,8 @@
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 
-[website]: https://hellraiser.netlify.app
-[twitter]: https://twitter.com/vanillaismyjam
+[website]: https://haidarezio.me
+[twitter]: https://twitter.com/haidar_ezio
 [youtube]: https://www.youtube.com/channel/UCFTQzKapiCcFx9_NzFcqHAw
-[instagram]: https://instagram.com/haidar_ezio
+[instagram]: https://instagram.com/haidar.ezio
 [linkedin]: https://www.linkedin.com/in/haidar-ezio-2a3a03182/
