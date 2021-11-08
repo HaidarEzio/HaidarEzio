@@ -42,7 +42,7 @@
 <!-- YOUTUBE:START -->
 - [VLOG #7 : GOING BBQ MODE IN THE WOODS !!!!!!!](https://www.youtube.com/watch?v=RiExKTcxrtM)
 - [VLOG #6 : MY BESTFRIENDS BIRTHDAY PARTY !!!!!](https://www.youtube.com/watch?v=_eH0-LJonBc)
-- [VLOG #4 : OUR FRIEND'S WEDDING DAY !!](https://www.youtube.com/watch?v=LGhJTYnIoME)
+- [VLOG #4 : OUR FRIEND&#39;S WEDDING DAY !!](https://www.youtube.com/watch?v=LGhJTYnIoME)
 - [VLOG #3 : THE HIGH SCHOOL EXPERIENCE !](https://www.youtube.com/watch?v=U-bf36U_oJk)
 <!-- YOUTUBE:END -->
 
