@@ -1,11 +1,11 @@
 ### Hi Everyone, I'm Haidar Ezio 👋
 
-## I'm a Front end Web Developer, Vlogger, Video Editor, and Retro Gamer!
+## I'm a Front end Web Developer, Video Editor, Vlogger, and Retro Gamer!
 
-- 🌱 I’m currently learning everything (especially trying React Native & Web3.0 🤣)
+- 🌱 I’m currently learning everything (especially working on Web3.0 🤣)
 - 👯 I’m looking to collaborate and actually realize some of my ideas in real life
-- 🥅 2021 Goals: 1- Contribute more to Open Source projects 2- Get More Projects rolling  3- Make More Vlogs
-- ⚡ Fun fact: I'm a Comic Book Nerd and I play retro games (I'm a super Resident Evil fan !)
+- 🥅 2022 Goals: 1- Contribute more to Open Source projects 2- Get More Projects rolling  3- Make More Vlogs
+- ⚡ About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a super Resident Evil & Silent Hill fan !)
 
 ### Connect with me:
 
