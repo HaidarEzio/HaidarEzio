@@ -22,20 +22,22 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-
-[<img align="left" alt="postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png" />][website]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="react" width="26px" src="https://simpleicons.vercel.app/react/61dafb" />][website]
+[<img align="left" alt="next" width="26px" src="https://simpleicons.vercel.app/nextdotjs/fff" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.vercel.app/javascript/f7df1e" />][website]
+[<img align="left" alt="styledComponents" width="26px" src="https://simpleicons.vercel.app/styledcomponents/fff" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://simpleicons.vercel.app/html5/e34f26" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://simpleicons.vercel.app/css3/1572b6" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://simpleicons.vercel.app/sass/c69" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.vercel.app/github/fff" />][website]
+[<img align="left" alt="Git" width="26px" src="https://simpleicons.vercel.app/git/E44C30" />][website]
+[<img align="left" alt="Node.js" width="26px" src="https://simpleicons.vercel.app/nodedotjs/393" />][website]
+[<img align="left" alt="MongoDB" width="30px" src="https://simpleicons.vercel.app/mongodb/69b23f" />][website]
+[<img align="left" alt="airtable" width="30px" src="https://simpleicons.vercel.app/airtable/fff" />][website]
+[<img align="left" alt="postgres" width="26px" src="https://simpleicons.vercel.app/postgresql/336791" />][website]
+[<img align="left" alt="notion" width="26px" src="https://simpleicons.vercel.app/notion/fff" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://simpleicons.vercel.app/gnometerminal/fff" />][website]
 <br />
 <br />
 ---
