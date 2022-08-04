@@ -7,13 +7,16 @@
 - 🥅 2022 Goals: 1- Contribute more to Open Source projects 2- Get More Projects rolling  3- Make More Vlogs
 - ⚡ About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a super Resident Evil & Silent Hill fan !)
 
+### Contributions:
+- Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
+
 ### Connect with me:
 
-[<img align="left" alt="haidarezio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
+[<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
+[<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/00acee" />][twitter]
+[<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/0072b1" />][linkedin]
+[<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]
 
 <br />
 
@@ -35,22 +38,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Vlogs
-
-<!-- YOUTUBE:START -->
-- [VLOG #7 : GOING BBQ MODE IN THE WOODS !!!!!!!](https://www.youtube.com/watch?v=RiExKTcxrtM)
-- [VLOG #6 : MY BESTFRIENDS BIRTHDAY PARTY !!!!!](https://www.youtube.com/watch?v=_eH0-LJonBc)
-- [VLOG #4 : OUR FRIEND&#39;S WEDDING DAY !!](https://www.youtube.com/watch?v=LGhJTYnIoME)
-- [VLOG #3 : THE HIGH SCHOOL EXPERIENCE !](https://www.youtube.com/watch?v=U-bf36U_oJk)
-<!-- YOUTUBE:END -->
-
 ---
 
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
+
 
 [website]: https://haidarezio.me
 [twitter]: https://twitter.com/haidar_ezio
