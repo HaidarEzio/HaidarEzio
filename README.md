@@ -1,6 +1,6 @@
 ### Hi Everyone, I'm Haidar Ezio 🥂
 
-## I'm a Front end Web Developer, Video Editor, Vlogger, and Retro Gamer!
+## I'm a Front-end Web Developer, Video Editor, Vlogger, and Retro Gamer!
 
 - 🌱 I’m currently learning everything interesting and new (especially working on Web3.0 😈)
 - 👯 I’m looking to collaborate and actually realize some of my ideas in real life
