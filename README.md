@@ -42,12 +42,12 @@
 [<img align="left" alt="Terminal" width="26px" src="https://simpleicons.vercel.app/gnometerminal/fff" />][website]
 <br />
 <br />
+![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
 
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [website]: https://haidarezio.me
 [twitter]: https://twitter.com/haidar_ezio
