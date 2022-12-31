@@ -1,4 +1,4 @@
-### Hi Everyone !, I'm Haidar Ezio 🥂
+### Hi Everyone 🎉 I'm Haidar Ezio !
 
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
