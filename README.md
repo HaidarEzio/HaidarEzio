@@ -1,11 +1,11 @@
-### Hi Everyone, I'm Haidar Ezio 🥂
+### Hi Everyone !, I'm Haidar Ezio 🥂
 
 ## I'm a Front-end Web Developer, Video Editor, Vlogger, and Retro Gamer!
 
-- 🌱 I’m currently learning everything interesting and new (especially working on Web3.0 😈)
-- 👯 I’m looking to collaborate and actually realize some of my ideas in real life
-- 🥅 2022 Goals: 1- Contribute more to Open Source projects 2- Get More Projects rolling  3- Make More Vlogs
-- ⚡ About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
+- 🛠 I’m currently learning everything interesting and new (especially on Rust 😈)
+- 📍 2023 Goals: 1- Contribute more to Open Source projects 2- Get More Projects rolling  3- Make More Vlogs
+- 👌 I’m looking to collaborate and actually realize some of my ideas in real life
+- 🎤 About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
 
 ### Contributions:
 - Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
