@@ -40,6 +40,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.vercel.app/github/fff" />][website]
 [<img align="left" alt="postgres" width="26px" src="https://simpleicons.vercel.app/postgresql/336791" />][website]
+<br />
 [<img align="left" alt="airtable" width="30px" src="https://simpleicons.vercel.app/airtable/fff" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://simpleicons.vercel.app/gnometerminal/fff" />][website]
 <br />
