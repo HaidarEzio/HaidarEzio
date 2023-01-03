@@ -41,9 +41,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.vercel.app/github/fff" />][website]
 [<img align="left" alt="postgres" width="26px" src="https://simpleicons.vercel.app/postgresql/336791" />][website]
 <br />
-[<img align="left" alt="airtable" width="30px" src="https://simpleicons.vercel.app/airtable/fff" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://simpleicons.vercel.app/gnometerminal/fff" />][website]
-<br />
 <br />
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
