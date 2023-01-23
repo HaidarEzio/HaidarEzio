@@ -13,10 +13,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
-[<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
 [<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/00acee" />][twitter]
 [<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/0072b1" />][linkedin]
 [<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]
+[<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
 
 <br />
 
@@ -47,10 +47,11 @@
 
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
-
+<br />
 
 [website]: https://haidarezio.me
 [twitter]: https://twitter.com/haidar_ezio
+[linkedin]: https://www.linkedin.com/in/haidar-ezio-2a3a03182/
 [youtube]: https://www.youtube.com/channel/UCFTQzKapiCcFx9_NzFcqHAw
 [instagram]: https://instagram.com/haidar.ezio
-[linkedin]: https://www.linkedin.com/in/haidar-ezio-2a3a03182/
+
