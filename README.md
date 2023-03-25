@@ -21,8 +21,9 @@
 [<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/00acee" />][twitter]
 [<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
 [<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/0072b1" />][linkedin]
-<!-- [<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]-->
 [<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
+
+<!-- [<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]-->
 
 <br />
 
@@ -47,7 +48,9 @@
 [<img align="left" alt="notion" width="26px" src="https://simpleicons.vercel.app/notion/fff" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.vercel.app/github/fff" />][website]
 [<img align="left" alt="postgres" width="26px" src="https://simpleicons.vercel.app/postgresql/336791" />][website]
+
 <!--[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]-->
+
 <br />
 <br />
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
