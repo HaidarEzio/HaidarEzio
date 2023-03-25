@@ -66,6 +66,8 @@
 
 ### ✍ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t use create-react-app anymore, try these](https://heatseeker.hashnode.dev/dont-use-create-react-app)
+- [Top CSS-In-JS libraries, Compared](https://heatseeker.hashnode.dev/top-css-in-js-libraries-compared)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://haidarezio.me
