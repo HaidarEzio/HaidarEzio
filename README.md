@@ -48,10 +48,6 @@
 [<img align="left" alt="notion" width="26px" src="https://simpleicons.vercel.app/notion/fff" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.vercel.app/github/fff" />][website]
 [<img align="left" alt="postgres" width="26px" src="https://simpleicons.vercel.app/postgresql/336791" />][website]
-
-<!--[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]-->
-
-<br />
 <br />
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/HaidarEzio/HaidarEzio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
