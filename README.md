@@ -10,6 +10,12 @@
 ### Contributions:
 - Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
 
+### ✍ Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Don&#39;t use create-react-app anymore, try these](https://heatseeker.hashnode.dev/dont-use-create-react-app)
+- [Top CSS-In-JS libraries, Compared](https://heatseeker.hashnode.dev/top-css-in-js-libraries-compared)
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
@@ -64,11 +70,7 @@
 
 ---
 
-### ✍ Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Don&#39;t use create-react-app anymore, try these](https://heatseeker.hashnode.dev/dont-use-create-react-app)
-- [Top CSS-In-JS libraries, Compared](https://heatseeker.hashnode.dev/top-css-in-js-libraries-compared)
-<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://haidarezio.me
 [twitter]: https://twitter.com/haidar_ezio
