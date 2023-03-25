@@ -10,7 +10,7 @@
 ### Contributions:
 - Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
 
-### ✍ Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Don&#39;t use create-react-app anymore, try these](https://heatseeker.hashnode.dev/dont-use-create-react-app)
 - [Top CSS-In-JS libraries, Compared](https://heatseeker.hashnode.dev/top-css-in-js-libraries-compared)
@@ -18,10 +18,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
 [<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/00acee" />][twitter]
+[<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
 [<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/0072b1" />][linkedin]
-[<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]
+<!-- [<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]-->
 [<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
 
 <br />
@@ -68,7 +68,7 @@
 <br />
 <br />
 
----
+
 
 
 
