@@ -54,7 +54,7 @@
 ---
 
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
-<img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark&langs_count=4&layout=compact" />
 
 <br />
 <br />
