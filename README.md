@@ -28,19 +28,21 @@
 
 ### Languages and Tools:
 
+
 [<img align="left" alt="TypeScript" width="26px" src="https://simpleicons.vercel.app/typescript/3178C6" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.vercel.app/javascript/f7df1e" />][website]
-[<img align="left" alt="react" width="26px" src="https://simpleicons.vercel.app/react/61dafb" />][website]
+[<img align="left" src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30px"/>][website]
 [<img align="left" alt="next" width="26px" src="https://simpleicons.vercel.app/nextdotjs/fff" />][website]
 [<img align="left" alt="Tailwind" width="26px" src="https://simpleicons.vercel.app/tailwindcss/06B6D4" />][website]
 [<img align="left" alt="styledComponents" width="26px" src="https://simpleicons.vercel.app/styledcomponents/fff" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://simpleicons.vercel.app/html5/e34f26" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://simpleicons.vercel.app/sass/c69" />][website]
+[<img align="left" src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="30px"/>][website]
 [<img align="left" alt="CSS3" width="26px" src="https://simpleicons.vercel.app/css3/1572b6" />][website]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.vercel.app/git/E44C30" />][website]
+[<img align="left" src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30px"  />][website]
 [<img align="left" alt="trpc" width="26px" src="https://simpleicons.vercel.app/trpc/398CCB" />][website]
 [<img align="left" alt="prisma" width="26px" src="https://simpleicons.vercel.app/prisma/000" />][website]
-[<img align="left" alt="gql" width="26px" src="https://simpleicons.vercel.app/graphql/DA0093" />][website]
+[<img align="left" src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="30px" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://simpleicons.vercel.app/nodedotjs/393" />][website]
 [<img align="left" alt="notion" width="26px" src="https://simpleicons.vercel.app/notion/fff" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]
