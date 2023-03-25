@@ -45,7 +45,7 @@
 [<img align="left" src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="30px" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://simpleicons.vercel.app/nodedotjs/393" />][website]
 [<img align="left" alt="notion" width="26px" src="https://simpleicons.vercel.app/notion/fff" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]
+<!--[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.vercel.app/visualstudiocode/007acc" />][website]-->
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.vercel.app/github/fff" />][website]
 [<img align="left" alt="postgres" width="26px" src="https://simpleicons.vercel.app/postgresql/336791" />][website]
 <br />
