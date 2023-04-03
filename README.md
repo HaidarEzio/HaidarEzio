@@ -2,7 +2,7 @@
 
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
-- 🛠 I’m currently learning everything interesting and new (especially on Rust 😈)
+- 🛠 I’m currently Building my side-project to be launched soon 
 - 📍 2023 Goals: 1- Launch my "secret" project on Product Hunt :) 2- Contribute more to Open Source projects
 - 👌 I’m looking to collaborate and actually realize some of the ideas we hack in real life !
 - 🎤 About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
