@@ -19,8 +19,8 @@
 ### Connect with me:
 
 [<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/00acee" />][twitter]
-[<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
 [<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/0072b1" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
 [<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
 
 <!-- [<img align="left" alt="HaidarEzio | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]-->
