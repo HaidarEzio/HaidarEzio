@@ -53,7 +53,7 @@
 ---
 
 <img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
-<img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark&langs_count=4&layout=compact" />
+<img align="left" alt="HaidarEzio's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark&langs_count=5&hide=ejs,css,html,shell&exclude_repo=kryptoswiss,redux-toolkit-tutorial,VetrinaLive,Gdocs-Next,face-recognition,VetrinaLive-GenericTheme-,LeetCode,coding-challenge,next-twin-macro-styled-comp" />
 
 <br />
 <br />
