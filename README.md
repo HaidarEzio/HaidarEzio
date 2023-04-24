@@ -2,10 +2,13 @@
 
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
-- 🛠 I’m currently Building my side-project to be launched soon 
-- 📍 2023 Goals: 1- Launch my "secret" project on Product Hunt :) 2- Contribute more to Open Source projects
+- 🛠 I’m currently interviewing for remote Front-end developer positions ;)
+- 📍 2023 Goals: 1- finish up React-Native and Python (yeah i know) and maybe a bit of Rust 2- Contribute more to Open Source projects
 - 👌 I’m looking to collaborate and actually realize some of the ideas we hack in real life !
 - 🎤 About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
+
+### I've Launched [DevRes](https://devres.app) on Product Hunt !
+- DevRes is an opinionated and curated list of top-notch web developer resources, skewed more to front-end developers, wrapped in a minimalistic and clean design, while having a few eye-candy effects ;) hope you guys like it !!
 
 ### Contributions:
 - Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
