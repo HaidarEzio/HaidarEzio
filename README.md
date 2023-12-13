@@ -3,7 +3,7 @@
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
 <!-- - 🛠 I’m currently interviewing for remote Front-end developer positions ;) -->
-- 📍 2023 Goals: 1- finish up React-Native and Python (yeah i know) and maybe a bit of Rust 2- Contribute more to Open Source projects
+- 📍 2024 Goals: 1- build up more knowledge on App development, and try new languages (Rust, Elixi etc...) 2- Contribute more to Open Source projects
 - 👌 I’m looking to collaborate and actually realize some of the ideas we hack in real life !
 - 🎤 About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
 
