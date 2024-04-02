@@ -1,5 +1,3 @@
-### Hi Everyone 🎉 I'm Haidar Ezio !
-
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
 <!-- - 🛠 I’m currently interviewing for remote Front-end developer positions ;) -->
