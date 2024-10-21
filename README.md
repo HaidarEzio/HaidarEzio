@@ -1,9 +1,9 @@
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
 <!-- - 🛠 I’m currently interviewing for remote Front-end developer positions ;) -->
-- 📍 2024 Goals: 1- Building my new secret project, codenamed "SunSetter" ;) 2- build up more knowledge on App development, and try new languages (Rust, Elixir etc...) 3- Contribute more to Open Source projects
+- 2024 Goals: 1- Building my new secret project, codenamed "SunSetter" ;) 2- build up more knowledge on App development, and try new languages (Rust, Elixir etc...) 3- Contribute more to Open Source projects
 <!-- - 👌 I’m looking to collaborate and actually realize some of the ideas we hack in real life ! -->
-- 🎤 About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
+- About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
 
 ### I've Launched [DevRes](https://devres.app) on Product Hunt ! And is #1 Developer Tools Product of the week !!
 - DevRes is an opinionated and curated list of top-notch web developer resources, skewed more to front-end developers, wrapped in a minimalistic and clean design, while having a few eye-candy effects ;) hope you guys like it !!
