@@ -56,7 +56,9 @@
 
 <img align="left" height="200" alt="HaidarEzio's Github Stats" src="https://github-readme-stats-ten-inky-77.vercel.app/api/top-langs?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark&langs_count=5&hide=ejs,css,html,shell&exclude_repo=kryptoswiss,redux-toolkit-tutorial,VetrinaLive,Gdocs-Next,face-recognition,VetrinaLive-GenericTheme-,LeetCode,coding-challenge,next-twin-macro-styled-comp" />
 <img align="left" src="https://haidar-streak-stats.vercel.app/?user=HaidarEzio&theme=dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="HaidarEzio's Github Stats" />
-<img align="left" alt="HaidarEzio's Github Stats" height="200" src="https://github-readme-stats-ten-inky-77.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" style="margin-top:10px" />
+
+
+<img align="left" alt="HaidarEzio's Github Stats" height="200" src="https://github-readme-stats-ten-inky-77.vercel.app/api?username=HaidarEzio&show_icons=true&hide_border=true&theme=dark" />
 
 
 
