@@ -2,7 +2,7 @@
 
 <!-- - 🛠 I’m currently interviewing for remote Front-end developer positions ;) -->
 - 2025 Goals:
-  - Building my new secret project, codenamed "Pathfinder" ;)
+  - Building my secret project, codenamed "Pathfinder" ;)
   - build up more knowledge on App development, and try new languages (Rust, Elixir etc...)
 <!-- - 👌 I’m looking to collaborate and actually realize some of the ideas we hack in real life ! -->
 - About myself: I'm a Comic Book Nerd and I play a lot of retro games (I'm a huge Resident Evil & Silent Hill fan !)
