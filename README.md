@@ -22,7 +22,7 @@
 ### Connect with me:
 
 [<img align="left" alt="HaidarEzio | Twitter" width="22px" src="https://simpleicons.vercel.app/x/fff" />][twitter]
-[<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/0072b1" />][linkedin]
+[<img align="left" alt="HaidarEzio | LinkedIn" width="22px" src="https://simpleicons.vercel.app/walkman/0072b1" />][linkedin]
 [<img align="left" alt="Website" width="22px" src="https://simpleicons.vercel.app/googlechrome/fff" />][website]
 [<img align="left" alt="HaidarEzio | YouTube" width="22px" src="https://simpleicons.vercel.app/youtube/ff0000" />][youtube]
 
