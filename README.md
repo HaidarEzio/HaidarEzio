@@ -84,7 +84,7 @@
 
 [website]: https://haidarezio.me
 [twitter]: https://twitter.com/haidar_ezio
-[linkedin]: https://www.linkedin.com/in/haidar-ezio-2a3a03182/
+[linkedin]: https://www.linkedin.com/in/haidar-ezio/
 [youtube]: https://www.youtube.com/channel/UCFTQzKapiCcFx9_NzFcqHAw
 [instagram]: https://instagram.com/haidar.ezio
 
