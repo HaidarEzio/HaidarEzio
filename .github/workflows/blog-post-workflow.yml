@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in hashnode posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
           feed_list: "https://heatseeker.hashnode.dev/rss.xml"
           max_post_count: 3
