@@ -41,7 +41,7 @@
 [<img align="left" alt="styledComponents" width="26px" src="https://simpleicons.vercel.app/styledcomponents/fff" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://simpleicons.vercel.app/html5/e34f26" />][website]
 [<img align="left" src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="30px"/>][website]
-[<img align="left" alt="CSS3" width="26px" src="https://techstack-generator.vercel.app/css/1572b6" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://simpleicons.vercel.app/css/1572b6" />][website]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.vercel.app/git/E44C30" />][website]
 [<img align="left" src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30px"  />][website]
 [<img align="left" alt="trpc" width="26px" src="https://simpleicons.vercel.app/trpc/398CCB" />][website]
