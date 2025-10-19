@@ -43,5 +43,5 @@ jobs:
           SYNC_TIMEOUT_SEC: "150"    # reduce if you want faster runs
           SYNC_POLL_SEC: "4"
         run: |
-          chmod +x ./migrate_github_to_forgejo.sh
-          ./migrate_github_to_forgejo.sh
+          chmod +x ./migrate_github_repos_to_forgejo.sh
+          ./migrate_github_repos_to_forgejo.sh
