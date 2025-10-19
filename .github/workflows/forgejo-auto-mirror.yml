@@ -1,0 +1,47 @@
+name: Forgejo Auto-Mirror
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 2 * * 1"
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (just to get your script)
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update -y && sudo apt-get install -y jq
+
+      - name: Setup GitHub CLI
+        uses: cli/cli-action@v2
+
+      - name: Run migration
+        env:
+          # --- GitHub side (PAT to list/clone your repos) ---
+          # Use a classic PAT in repo Secrets named GH_LIST_TOKEN (scope: repo; add read:org if needed)
+          GITHUB_TOKEN: ${{ secrets.GH_LIST_TOKEN }}
+          # Let `gh` auto-auth: gh respects GH_TOKEN
+          GH_TOKEN: ${{ secrets.GH_LIST_TOKEN }}
+          GITHUB_USERNAME: HaidarEzio
+
+          # --- Forgejo side ---
+          FORGEJO_TOKEN: ${{ secrets.FORGEJO_TOKEN }}        # your Forgejo PAT
+          FORGEJO_BASE:  https://forgejo.haidarezio.me
+          FORGEJO_OWNER: haidarezio
+
+          # --- Behavior knobs (tweak to taste) ---
+          INCLUDE_FORKS: "false"
+          SKIP_ARCHIVED: "true"
+          ONLY_PRIVATE:  "false"
+          MODE: "mirror"
+          MIRROR_INTERVAL: "8h0m0s"
+          FORCE_REMIGRATE: "false"   # keep false for cron; set true only when you *intend* to rebuild
+          DRY_RUN: "false"
+          SYNC_TIMEOUT_SEC: "150"    # reduce if you want faster runs
+          SYNC_POLL_SEC: "4"
+        run: |
+          chmod +x ./migrate_github_to_forgejo.sh
+          ./migrate_github_to_forgejo.sh
