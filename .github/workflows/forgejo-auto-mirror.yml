@@ -36,8 +36,8 @@ jobs:
           FORGEJO_OWNER: haidarezio
 
           # --- Behavior knobs (tweak to taste) ---
-          INCLUDE_FORKS: "false"
-          SKIP_ARCHIVED: "true"
+          INCLUDE_FORKS: "true"
+          SKIP_ARCHIVED: "false"
           ONLY_PRIVATE:  "false"
           MODE: "mirror"
           MIRROR_INTERVAL: "8h0m0s"
