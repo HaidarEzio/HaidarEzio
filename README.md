@@ -1,7 +1,7 @@
 ## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
 <!-- - 🛠 I’m currently interviewing for remote Front-end developer positions ;) -->
-- 2025 Goals:
+- 2026 Goals:
   - Building my secret project, codenamed "Pathfinder" ;)
   - build up more knowledge on App development, and try new languages (Rust, Elixir etc...)
 <!-- - 👌 I’m looking to collaborate and actually realize some of the ideas we hack in real life ! -->
