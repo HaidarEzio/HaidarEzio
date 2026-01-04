@@ -11,7 +11,7 @@
 - DevRes is an opinionated and curated list of top-notch web developer resources, skewed more to front-end developers, wrapped in a minimalistic and clean design, while having a few eye-candy effects ;) hope you guys like it !!
 
 ### Contributions:
-- Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
+- 2022: Made an [Example Project](https://github.com/HaidarEzio/NFTswap/tree/example-project) for [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk/commits?author=HaidarEzio) to help other devs visualize how the SDK works 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
