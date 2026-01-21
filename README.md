@@ -1,4 +1,4 @@
-## I'm a Front-end Web Developer, Video Editor, and Retro Gamer! [![committers.top badge](https://user-badge.committers.top/algeria_private/HaidarEzio.svg)](https://user-badge.committers.top/algeria_private/HaidarEzio)
+## I'm a Front-end Web Developer, Video Editor, and Retro Gamer!
 
 <!-- - 🛠 I’m currently interviewing for remote Front-end developer positions ;) -->
 - 2026 Goals:
